@@ -1,2 +1,1 @@
-grafana/grafana
-prom/prometheus
+ubuntu:20.04
