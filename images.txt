@@ -1,1 +1,1 @@
-apache/apisix-dashboard:3.0.1-centos
+bitnami/etcd:3.4.9
