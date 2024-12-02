@@ -1,1 +1,1 @@
-mysql:8
+pgedge/pgcat:1.1
