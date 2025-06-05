@@ -1,1 +1,1 @@
-openjdk:8u222-jdk
+python:3.9-slim
