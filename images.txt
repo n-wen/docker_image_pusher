@@ -1,1 +1,1 @@
-pgvector/pgvector:pg15
+langgenius/dify-api:1.7.2
