@@ -1,5 +1,1 @@
-redis:6-alpine
-ubuntu/squid:latest
-certbot/certbot
-nginx:latest
-opensearchproject/opensearch-dashboards:latest
+postgres:15-alpine
