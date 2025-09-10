@@ -1,1 +1,3 @@
-otel/opentelemetry-collector-contrib:latest
+asterisk:20-current
+postgres:15
+redis:7-alpine
