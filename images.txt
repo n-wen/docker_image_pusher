@@ -1,1 +1,1 @@
-mlan-asterisk:latest
+mlan/asterisk:latest
