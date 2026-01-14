@@ -1,1 +1,1 @@
-node:22-alpine3.21
+safarov/freeswitch:1.10.12
