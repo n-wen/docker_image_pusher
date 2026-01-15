@@ -1,1 +1,1 @@
-safarov/freeswitch:1.10.12
+eclipse-temurin:21-jre-alpine
