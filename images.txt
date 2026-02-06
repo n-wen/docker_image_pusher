@@ -1,1 +1,1 @@
-alpine:latest
+maven:3.9-eclipse-temurin-25
