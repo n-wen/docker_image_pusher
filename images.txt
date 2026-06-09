@@ -1,1 +1,1 @@
-eclipse-temurin:25-jre-noble
+servicebots/freeswitch:edge
