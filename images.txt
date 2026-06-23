@@ -1,9 +1,1 @@
-pgvector/pgvector:pg17
-redis:7
-minio/minio
-nginx:alpine
-coturn/coturn:4.8.0
-bash:5.2
-cloudflare/cloudflared:latest
-dograhai/dograh-api:latest
-dograhai/dograh-ui:latest
+andrius/asterisk:22
