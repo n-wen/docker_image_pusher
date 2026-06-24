@@ -1,1 +1,1 @@
-andrius/asterisk:22
+python:3.13-slim
