@@ -1,1 +1,2 @@
 python:3.13-slim
+azul/zulu-openjdk:25-jre
