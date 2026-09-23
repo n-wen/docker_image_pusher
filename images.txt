@@ -1,1 +1,1 @@
-1995chen/dnf:centos5-2.1.9.fix1
+docker pull 1995chen/dnf:centos7-latest
